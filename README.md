@@ -1,2 +1,2 @@
 # cybersecurity-notes
-Documentation of my projects, learning and development in cybersecurity.
+This repository is a documentation of my projects, learning and development in cybersecurity.
