@@ -13,14 +13,12 @@ Organisations hold huge amounts of confidential data — disruption to this can 
 **Vulnerabilities**
 - Weaknesses an attacker can exploit e.g. outdated OS or software
 - Unfixed vulnerabilities can cause catastrophic damage
-
 **Unauthorised Activity**
 - Attacker gaining access to credentials
 
 **Policy Violations**
 - Sending confidential files insecurely
 
----
 
 ## Response
 
@@ -28,13 +26,11 @@ Organisations hold huge amounts of confidential data — disruption to this can 
 - Minimise impact of the incident
 - Perform root cause analysis
 
----
 
 ## Three Pillars of SOC
 
 People, Process, Technology
 
----
 
 ## People
 
@@ -52,7 +48,6 @@ Automation handles a lot but humans are always needed to filter false positives 
 
 **Level 1 Analyst** — First line of defence, monitors alerts, triages and escalates to Level 2
 
----
 
 ## Alert Triage
 
@@ -61,7 +56,6 @@ Automation handles a lot but humans are always needed to filter false positives 
 - Answer the 5 Ws — Who, What, Where, Why, When
 - Escalate with a report covering all 5 Ws
 
----
 
 ## Technology
 
@@ -86,4 +80,4 @@ it helped me understand the importance of roles/hierarchy in Security Operations
 Also obtaining a futher development of SIEM and EDR was extremely helpful to advance my understanding.
 The Alert Triage and 5 Ws taught me the correct escalation and control techniques when handling a potential threat.
 
-💻
+
